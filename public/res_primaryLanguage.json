@@ -1,9 +1,9 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "Welcome to my portfolio!",
+      "description_header": "Hello!",
+      "description": "Hey, my name is Ryan Lee. I’m a software developer with experience in JavaScript and Python. One aspect I like about software development is how much change and advancement there is. No one can really sit on their hands in this field and in order get ahead you have to be constantly learning – this is something I love to do. Picking up a new technique feels like learning a new magic trick to me.",
       "section_name": {
-        "about": "About me",
+        "about": "About Me",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -11,107 +11,105 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Project 1",
+        "startDate": "2021",
+        "description": "PLACEHOLDER",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+    
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Project 2",
+        "startDate": "2021",
+        "description": "PLACEHOLDER",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+           
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Project 3",
+        "startDate": "2022",
+        "description": "PLACEHOLDER",
+        "images": [
+        
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Student - Codefellows",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "10.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Node.js"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "REACT",
+          "Github"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Microsoft Game Studios",
+        "title": "Test Associate - Lead",
+        "years": "01.2011 - 03.2012",
         "mainTech": [
-          "Angular 7/8"
+          "In House QA Tech"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Recording",
+          "Reporting",
+          "Database",
+          "JavaScript"          
         ]
       }
     ]
