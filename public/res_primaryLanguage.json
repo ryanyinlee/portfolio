@@ -11,13 +11,15 @@
     },
     "projects": [
       {
-        "title": "Project 1",
+        "title": "Bus Mall Order Form",
         "startDate": "2021",
-        "description": "PLACEHOLDER",
-        "images": [
-    
+        "description": "A shopping cart and catalog for ordering stuff for a Bus Mall.",
+        "images": [ 
+         
+           "/images/portfolio/projects/busmallcatalog.PNG"
+            
         ],
-        "url": "",
+        "url": "https://github.com/eriksavage/shopping-cart",
         "technologies": [
           {
             "name": "HTML 5",
@@ -34,13 +36,13 @@
         ]
       },
       {
-        "title": "Project 2",
+        "title": "Bus Mall Catalog Survey",
         "startDate": "2021",
-        "description": "PLACEHOLDER",
+        "description": "A random selection of products designed to be chosen by the customer.",
         "images": [
-          
+          "/images/portfolio/projects/busMallscreenshot.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ryanyinlee/bus-mall",
         "technologies": [
           {
             "name": "HTML 5",
@@ -58,13 +60,13 @@
         ]
       },
       {
-        "title": "Project 3",
-        "startDate": "2022",
-        "description": "PLACEHOLDER",
+        "title": "Restaurant Project",
+        "startDate": "2021",
+        "description": "201 Class Final Project. ",
         "images": [
-        
+          "/images/portfolio/projects/toastys.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ryanyinlee/restaurant-project",
         "technologies": [
           {
             "name": "HTML 5",
