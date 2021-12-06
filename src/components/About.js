@@ -3,8 +3,10 @@ import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
 
 
+
 class About extends Component {
   render() {
+
     if (this.props.sharedBasicInfo) {
       var profilepic = "images/" + this.props.sharedBasicInfo.image;
     }
@@ -20,7 +22,7 @@ class About extends Component {
           <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>
           </h1>
-          <div className="row center mx-auto mb-5">
+          <div className="row center mx-auto mb-5"  >
             <div className="col-md-4 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
@@ -33,10 +35,15 @@ class About extends Component {
                   <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    
                   />
 
                 </span>
               </div>
+            </div>
+
+            <div >
+            
             </div>
 
             <div className="col-md-8 center">

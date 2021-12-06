@@ -3,6 +3,7 @@ import Switch from "react-switch";
 import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
 
+
 class Header extends Component {
   titles = [];
 
@@ -36,6 +37,7 @@ class Header extends Component {
     }, (props, prevProp) => true);
 
     return (
+     
       <header id="home" style={{ height: window.innerHeight - 100, display: 'block' }}>
         <a href="https://github.com/ryanyinlee/" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
           <svg width="90" height="90" viewBox="0 0 250 250" style={{ fill: '#151513', color: '#fff', position: 'absolute', top: 0, border: 0, left: 0, transform: 'scale(-1, 1)', zIndex: 9999 }} aria-hidden="true">
@@ -45,6 +47,7 @@ class Header extends Component {
           </svg>
         </a>
         <Nav activeKey="/home" fill style={{ position: 'absolute', top: 10, right: 10 }}>
+        
           <Nav.Item> 
             <LinkContainer to="/">
               <Nav.Link href="/">Home</Nav.Link>
@@ -98,7 +101,7 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%'}}>
+        <div className="row aligner" style={{height: '12rem'}}>
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>

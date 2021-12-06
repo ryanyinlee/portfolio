@@ -80,7 +80,34 @@ class App extends Component {
 
   render() {
     return (
+      
       <Router>
+        <div style={{ 
+        backgroundImage: "url(/images/portfolio/background/20211115_204122.jpg)",
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: "center"
+        }}>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          
+          
+          
+          
+          <br></br></div>
         <Header sharedData={this.state.sharedData.basic_info} />
         <Switch>
           <Route exact path="/">
