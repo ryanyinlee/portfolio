@@ -2,6 +2,8 @@
 
 Netlify: https://flamboyant-engelbart-e87f47.netlify.app/
 
+Trello: https://trello.com/b/H4mjFACL/ryans-portfolio
+
 1. Clone Template and Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
 
 Estimate of time needed to complete: 30 min
